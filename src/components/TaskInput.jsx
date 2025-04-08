@@ -66,7 +66,7 @@ export default function TaskInput() {
       <div className="p-4">
         <button
           onClick={() => setIsOpen(true)}
-          className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition md:text-[18px] text-[14px]"
+          className="bg-[#172747] text-white px-4 py-2 rounded hover:bg-blue-700 transition md:text-[18px] text-[14px]"
         >
           + Add Task
         </button>
